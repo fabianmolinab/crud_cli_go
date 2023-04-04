@@ -4,20 +4,20 @@ This project is a console application written in Go that implements a todo list-
 ## Instalación 
 1. Clone the repositoty 
 
-`git clone https://github.com/fabianmolinab/crud_cli_go.git`
+   `git clone https://github.com/fabianmolinab/crud_cli_go.git`
 
 2. Install the dependencies.
 
-`go get github.com/fabianmolinab/crud-cli`
+   `go get github.com/fabianmolinab/crud-cli`
 
 3. Compile the code.
 
-`go build`
+   `go build`
 
 ## Usage
 1. Run the application 
 
-`./crud-cli`
+   `./crud-cli`
 
 2. Select an option from the menu
 
