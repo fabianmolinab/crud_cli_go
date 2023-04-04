@@ -1,0 +1,1 @@
+export GOFMT_TABWIDTH=4
